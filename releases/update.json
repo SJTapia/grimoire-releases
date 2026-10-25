@@ -1,11 +1,11 @@
 {
-  "version": "1.9.1",
-  "notes": "Grimoire Rollout Production Stable v1.9.1. Optimized multi-pane store architectures initialized.",
-  "pub_date": "2026-07-11T01:59:13.718Z",
+  "version": "2.0.0",
+  "notes": "GrymmScript Rollout Production Stable v2.0.0. Optimized multi-pane store architectures initialized.",
+  "pub_date": "2026-10-25T02:11:34.743Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNG1pdWd0Z0dHNkc5WFBRMjJZcGd6dEl4b3YxT1ZLQXFNdCsxeW83aktLMjZYeldaR0FpemJwa0Q5YTRKcnlBNWI0NnVLZi94NHhxNWkxWHRLeE1Lb0dYSXppZnRYVVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzM1MTUzCWZpbGU6Z3JpbW9pcmVfMS45LjFfeDY0X2VuLVVTLm1zaQpnSVBtcDRlRnhoTG1nbFVtdWdmZERqR2c4M0liY3FObEhhWXZjalFnNU90cC9adDdDRlB1d3gwRFgrMlpWOXVlbzg5UWVSUUZ6K0FTOVN1VjFVcUJDZz09Cg==",
-      "url": "https://github.com/SJTapia/grimoire-releases/releases/download/v1.9.1/grimoire_1.9.1_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNG1pdWd0Z0dHNkt0d2JUTjVUUnJZTDFsemRkZXdEU01McDJXNm9JRnF4K3RHcmpZdXFKTGIrQnZlREtlOXNzQUFTb0lmSWFnUW84Vkl0NE9LZlhreUdDb0xnT0cwd0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODk0Mjk0CWZpbGU6R3J5bW1TY3JpcHRfMi4wLjBfeDY0X2VuLVVTLm1zaQpPaE80MGV3Sm9vNzc0d0FrNmZRV0Jyd0pyOVQvTTh1WmhKSWZuWXE1eG1NRThoSEZHQlhHMVVlRnQwMVVtNVhvb0U2Qy9XbjdQaGpRcXRBUGJvM2lEUT09Cg==",
+      "url": "https://github.com/SJTapia/grimoire-releases/releases/download/v2.0.0/GrymmScript_2.0.0_x64_en-US.msi"
     }
   }
 }
